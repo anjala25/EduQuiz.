@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [anjala25/EduQuiz](anjala25/EduQuiz) to view it in your browser.
+Open [https://edu-quiz-git-main-anjala-n-as-projects.vercel.app/](https://edu-quiz-git-main-anjala-n-as-projects.vercel.app/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
